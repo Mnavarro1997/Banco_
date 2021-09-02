@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Banco_
 {
-    public class Client
+    public class Notification
     {
+        public int Code { get; set; }
+
     }
 }

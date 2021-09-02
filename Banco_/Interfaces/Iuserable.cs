@@ -4,11 +4,7 @@ using System.Text;
 
 namespace Banco_
 {
-    public class Person
+    interface Iuserable
     {
-        public string Name;
-        public int Age;
-
-
     }
 }

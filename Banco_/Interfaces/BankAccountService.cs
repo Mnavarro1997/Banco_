@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Banco_
+namespace Banco_.Interfaces
 {
-    public class Notification
+    class BankAccountService
     {
     }
 }
