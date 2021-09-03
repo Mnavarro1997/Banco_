@@ -3,11 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Banco_
+namespace Banco_.Services
 {
-    public class Notification :Inotificable
+    class SmsServices : Isendable
     {
-        public int Code { get; set; }
-
     }
 }

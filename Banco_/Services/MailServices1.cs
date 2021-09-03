@@ -7,7 +7,7 @@ namespace Banco_.Interfaces
     /// <summary>
     /// when the user create his account, this one will send an email with his information.
     /// </summary>
-    interface MailServices1
+    public class MailServices1 : Isendable
     {
     }
 }

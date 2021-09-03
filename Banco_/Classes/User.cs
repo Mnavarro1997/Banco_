@@ -7,7 +7,7 @@ namespace Banco_
     /// <summary>
     /// In this user class we extends of the interface of user.
     /// </summary>
-    public class User : Iuserable
+    public class User : IUserable
     {
 
         public string UserName { get; set; }

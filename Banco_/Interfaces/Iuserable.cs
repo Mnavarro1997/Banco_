@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Banco_
 {
-    interface Iuserable
+    /// <summary>
+    /// si un trabajador es cliente no tengas que crear un obj de la classe cliente, ya q es la misma persona: worker.transfer
+    /// 
+    /// </summary>
+    interface IUserable
     {
     }
 }
